@@ -7,7 +7,7 @@
 ```json
 {
     "dependencies": {
-        "com.namespace.unitypackageexample": "https://github.com/neogeek/unity-package-example.git#upm"
+        "com.namespace.unitypackageexample": "https://github.com/AntonioPalomo/unity-package-example.git#upm"
     }
 }
 ```
